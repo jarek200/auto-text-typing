@@ -1,1 +1,1 @@
-.DS_Store
+Auto text typing
